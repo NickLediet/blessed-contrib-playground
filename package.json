@@ -32,6 +32,6 @@
     "react-blessed-contrib": "^0.2.1",
     "react-devtools": "^3.6.1",
     "term.js": "0.0.7",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   }
 }
